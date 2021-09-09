@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.exe
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.deps.json
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.runtimeconfig.json
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.runtimeconfig.dev.json
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.dll
+D:\install\Code\C#\repos\CSharp-101\bin\Debug\netcoreapp3.1\CSharp-101.pdb
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.csprojAssemblyReference.cache
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.AssemblyInfo.cs
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.dll
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.pdb
+D:\install\Code\C#\repos\CSharp-101\obj\Debug\netcoreapp3.1\CSharp-101.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KP2lt/WkKgFiyy0L6nAKcPVAR0ujZdcspXS3U/kuw5c9ssnXtzuGNUF8zLK0e1dy6r8PG4TgnQz26TUs6ZA7IQ==",
+  "success": true,
+  "projectFilePath": "D:\\install\\Code\\C#\\repos\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAZZ\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
+    "C:\\Users\\DAZZ\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.18\\microsoft.netcore.app.runtime.linux-x64.3.1.18.nupkg.sha512",
+    "C:\\Users\\DAZZ\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.18\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

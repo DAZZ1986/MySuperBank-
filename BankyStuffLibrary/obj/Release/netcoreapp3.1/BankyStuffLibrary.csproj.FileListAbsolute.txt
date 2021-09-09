@@ -1,0 +1,9 @@
+D:\install\Code\C#\repos\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.deps.json
+D:\install\Code\C#\repos\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.dll
+D:\install\Code\C#\repos\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.csprojAssemblyReference.cache
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.AssemblyInfo.cs
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.dll
+D:\install\Code\C#\repos\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.pdb

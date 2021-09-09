@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJTUWY+sGQvjxqopu+Ot5dSXL8pvu+gaNgRbn1bydTVdn+OC7bewYJei+isbYMuqQTnjzvJFEh9+5jrEV2v5oQ==",
+  "success": true,
+  "projectFilePath": "D:\\install\\Code\\C#\\repos\\CSharp-101\\CSharp-101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAZZ\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
+    "C:\\Users\\DAZZ\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.18\\microsoft.netcore.app.runtime.linux-x64.3.1.18.nupkg.sha512",
+    "C:\\Users\\DAZZ\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.18\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.18.nupkg.sha512",
+    "C:\\Users\\DAZZ\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.18\\microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

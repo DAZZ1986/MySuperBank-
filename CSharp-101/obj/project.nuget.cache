@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFvJTrpuIeQn/Kzu6RazzSBrdfV2gPvZ1MO+23JpT+4V3R9qcOcef7o2bcjdpGdWhhiQ00F02/PcxgrZTfGSpg==",
+  "success": true,
+  "projectFilePath": "D:\\install\\Code\\C#\\repos\\CSharp-101\\CSharp-101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAZZ\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

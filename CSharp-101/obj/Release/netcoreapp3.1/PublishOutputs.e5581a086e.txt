@@ -1,0 +1,8 @@
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\CSharp-101.exe
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\CSharp-101.dll
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\CSharp-101.deps.json
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\CSharp-101.runtimeconfig.json
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\CSharp-101.pdb
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\Humanizer.dll
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.dll
+D:\install\Code\C#\repos\CSharp-101\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.pdb
